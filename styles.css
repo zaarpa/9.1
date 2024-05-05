@@ -1,0 +1,18 @@
+/* Center align container */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.custom-heading{
+    margin-bottom: 80px;
+}
+
+.form-control{
+    width: 100%;
+    background-color: rgba(185, 185, 185, 0.468);
+}
+.name-input{
+    font-size: larger;
+}
